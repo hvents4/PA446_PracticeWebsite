@@ -2,7 +2,7 @@
 title: "PA446_PracticeWebsite"
 image: ZX7Ni0Fk.png
 about:
-  template: trestles
+  template: jolla
   image-shape: rectangle
   image-width: 15em
   links: 
