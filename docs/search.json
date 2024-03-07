@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "PA446_PracticeWebsite",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Hello and welcome to my website. I am a student at UIC completing my Masters in Urban Planning and Policy.\n\nThis is the partial content"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,12 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "NewPage.html",
+    "href": "NewPage.html",
+    "title": "This is a New Page",
+    "section": "",
+    "text": "This is a Quarto website."
   }
 ]

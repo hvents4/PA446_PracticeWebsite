@@ -1,11 +1,24 @@
 ---
 title: "PA446_PracticeWebsite"
+image: ZX7Ni0Fk.png
+about:
+  template: trestles
+  image-shape: rectangle
+  image-width: 15em
+  links: 
+    - text: Email
+      icon: envelope-at
+    - text: GitHub
+      icon: github
+      href: https://github.com/hvents4
+    - text: Resume
+      icon: file-earmark-text
+      href: H.Ventura Resume_2024_2.15.24.pdf
+  id: ppc
 ---
 
-This is a Quarto website.
+Hello and welcome to my website. I am a student at UIC completing my Masters in Urban Planning and Policy.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+:::{ppc}
+This is the partial content
+:::

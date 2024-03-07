@@ -9,10 +9,14 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - NewPage.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: sandstone
+    mainfont: Helvetica
+    fontsize: 1.5rem
+    fontcolor: "#710909"
     css: styles.css
     toc: true
 
