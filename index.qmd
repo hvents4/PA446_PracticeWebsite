@@ -1,8 +1,10 @@
 ---
-title: "Hello"
-image: PXL_20231205_212115543.png
+title: "About"
+image: ZX7Ni0Fk.png
 about:
-  template: marquee
+  template: trestles
+  image-shape: rounded
+  image-width: 15em
   links: 
     - text: Email
       icon: envelope-at
@@ -12,9 +14,12 @@ about:
       href: https://github.com/hvents4
     - text: Resume
       icon: file-earmark-text
-      href: H.Ventura Resume_2024_2.15.24.pdf
+      href: about.qmd
   id: ppc
 ---
 
-Welcome to my website.
 
+
+I am a student at UIC completing my Masters in Urban Planning and Policy. I will be graduating in May 2024.
+
+I am interested in transportation planning and policy.

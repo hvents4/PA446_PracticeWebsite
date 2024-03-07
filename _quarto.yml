@@ -9,14 +9,15 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: Resume
       - NewPage.qmd
 
 format:
   html:
     theme: jouranl
     mainfont: Playfair Display
-    fontsize: 1.5rem
+    fontsize: 1.1rem
     fontcolor: "#710909"
     css: styles.css
     toc: true
