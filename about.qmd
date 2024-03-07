@@ -1,9 +1,25 @@
 ---
-title: "About"
+title: "About Me"
+image: ZX7Ni0Fk.png
+about:
+  template: jolla
+  image-shape: rounded
+  image-width: 15em
+  links: 
+    - text: Email
+      icon: envelope-at
+      href: mailto:hventur2@uic.edu
+    - text: GitHub
+      icon: github
+      href: https://github.com/hvents4
+    - text: Resume
+      icon: file-earmark-text
+      href: H.Ventura Resume_2024_2.15.24.pdf
+  id: ppc
 ---
+:::{ppc}
+I am a student at UIC completing my Masters in Urban Planning and Policy. I will be graduating in May 2024.
 
-About this site
+I am interested in transportation planning and policy.
 
-```{r}
-1 + 1
-```
+:::

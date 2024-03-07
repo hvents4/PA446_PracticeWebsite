@@ -3,8 +3,9 @@ project:
   output-dir: docs
 
 website:
-  title: "PA446_PracticeWebsite"
+  title: "Haley Ventura"
   navbar:
+    
     left:
       - href: index.qmd
         text: Home
@@ -13,8 +14,8 @@ website:
 
 format:
   html:
-    theme: sandstone
-    mainfont: Helvetica
+    theme: jouranl
+    mainfont: Playfair Display
     fontsize: 1.5rem
     fontcolor: "#710909"
     css: styles.css

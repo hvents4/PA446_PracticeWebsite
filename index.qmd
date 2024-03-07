@@ -1,13 +1,12 @@
 ---
-title: "PA446_PracticeWebsite"
-image: ZX7Ni0Fk.png
+title: "Hello"
+image: PXL_20231205_212115543.png
 about:
-  template: jolla
-  image-shape: rectangle
-  image-width: 15em
+  template: marquee
   links: 
     - text: Email
       icon: envelope-at
+      href: mailto:hventur2@uic.edu
     - text: GitHub
       icon: github
       href: https://github.com/hvents4
@@ -17,8 +16,5 @@ about:
   id: ppc
 ---
 
-Hello and welcome to my website. I am a student at UIC completing my Masters in Urban Planning and Policy.
+Welcome to my website.
 
-:::{ppc}
-This is the partial content
-:::

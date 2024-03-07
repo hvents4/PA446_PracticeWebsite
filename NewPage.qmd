@@ -1,5 +1,9 @@
 ---
-title: "This is a New Page"
+title: "Spring 2024"
 ---
 
-This is a Quarto website.
+PA 446: Coding for Civic Data Applications
+
+PA 541: Advanced Data Analysis 1
+
+UPP 595: Professional Portfolio

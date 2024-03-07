@@ -2,22 +2,22 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "PA446_PracticeWebsite",
+    "title": "Hello",
     "section": "",
-    "text": "Hello and welcome to my website. I am a student at UIC completing my Masters in Urban Planning and Policy.\n\nThis is the partial content"
+    "text": "Welcome to my website."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Me",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "I am a student at UIC completing my Masters in Urban Planning and Policy. I will be graduating in May 2024.\nI am interested in transportation planning and policy."
   },
   {
     "objectID": "NewPage.html",
     "href": "NewPage.html",
-    "title": "This is a New Page",
+    "title": "Spring 2024",
     "section": "",
-    "text": "This is a Quarto website."
+    "text": "PA 446: Coding for Civic Data Applications\nPA 541: Advanced Data Analysis 1\nUPP 595: Professional Portfolio"
   }
 ]
