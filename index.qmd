@@ -15,6 +15,9 @@ about:
     - text: Resume
       icon: file-earmark-text
       href: about.qmd
+    - text: PDF
+      icon: file-earmark-text
+      href: H.Ventura Resume_2024_2.15.24.pdf
   id: ppc
 ---
 
