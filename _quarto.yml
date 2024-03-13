@@ -12,6 +12,8 @@ website:
       - href: about.qmd
         text: Resume
       - NewPage.qmd
+      - href: H.Ventura Resume_2024_2.15.24.pdf
+        text: Resume PDF
 
 format:
   html:
