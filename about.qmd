@@ -4,22 +4,11 @@ title: "**Resume**"
 
 ## [**Skills**]{.underline}
 
-<table>
-<colgroup>
-<col width="50%" />
-<col width="50%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td align="left">* Visualization: ArcGIS Pro, ArcGIS Online Applications, InDesign, Illustrator, Photoshop, Sketchup</td>
-<td align="left">* Project Management: Client communications, timeline monitoring, budget forecasts, billing, scope-writing
-</tr>
-<tr class="even">
-<td align="left">* Data Analysis: Python, SQL, R, PowerBI, Excel</td>
-<td align="left">* Language: Conversational Spanish</td>
-</tr>
-</tbody>
-</table>
++------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------+
+| \* Visualization: ArcGIS Pro, ArcGIS Online Applications, InDesign, Illustrator, Photoshop, Sketchup | \* Project Management: Client communications, timeline monitoring, budget forecasts, billing, scope-writing |
++------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------+
+| \* Data Analysis: Python, SQL, R, PowerBI, Excel                                                     | \* Language: Conversational Spanish                                                                         |
++------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------+
 
 ## [**Work Experience**]{.underline}
 
@@ -85,7 +74,7 @@ Urbana, IL \| December 2015 - December 2016
 
 630-XXX-XXXX
 
-hventur2@uic.edu
+hventur2\@uic.edu
 
 Chicago, IL
 

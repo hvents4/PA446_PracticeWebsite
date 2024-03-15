@@ -6,23 +6,19 @@ about:
   image-shape: rounded
   image-width: 15em
   links: 
-    - text: Email
+    - text: Email Me!
       icon: envelope-at
       href: mailto:hventur2@uic.edu
-    - text: GitHub
+    - text: GitHub Repository for this website!
       icon: github
-      href: https://github.com/hvents4
-    - text: Resume
-      icon: file-earmark-text
-      href: about.qmd
-    - text: PDF
-      icon: file-earmark-text
-      href: H.Ventura Resume_2024_2.15.24.pdf
-  id: ppc
+      href: https://github.com/hvents4/hvents4.github.io
+    - text: My LinkedIn
+      icon: linkedin
+      href: https://www.linkedin.com/in/haleyventura/
 ---
 
 
 
-I am a student at UIC completing my Masters in Urban Planning and Policy. I will be graduating in May 2024.
+Hello! I am a second year graduate student at the University of Illinois Chicago. This May 2024, I will be graduating with a Masters in Urban Planning and Policy.
 
-I am interested in transportation planning and policy.
+I am currently seeking a full-time position in transportation planning. I am passionate about public transit, equitable mobility, data analysis, and geography.
