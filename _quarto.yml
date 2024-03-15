@@ -11,8 +11,6 @@ website:
         text: Home
       - href: about.qmd
         text: Resume
-      - href: H.Ventura Resume_2024_2.15.24.pdf
-        text: Resume PDF
 
 format:
   html:
@@ -21,7 +19,7 @@ format:
     fontsize: 1.1rem
     fontcolor: "#2B2D42"
     linkcolor: "#D6A2AD"
-    title-block-banner-color: "#2B2D42"
+    css: styles.css
     toc: true
 
 
